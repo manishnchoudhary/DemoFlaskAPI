@@ -36,15 +36,15 @@ It is a python file for automated testing.
 
 I have used Postman tool.
 
-**Register Sensor First**
+**Register Sensor First Time-**
 
 ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/register_sensor.png)
 
-**Update Sensor Data**
+**Update Sensor's Data-**
 
 ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Update_sensor_data.png)
 
-**Querying**
+**Querying-**
 
  ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Query.png)
 
