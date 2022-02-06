@@ -26,13 +26,9 @@ It is a python file for automated testing.
 ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/ER_Digram.png)
 
 
-**References :** 
- 1. https://docs.sqlalchemy.org/en/14/orm/query.html#sqlalchemy.orm.query.Query.with_entities.
- 2. https://www.tutorialspoint.com/flask/flask_routing.htm
- 3. https://stackoverflow.com/questions/3292752/sum-fields-in-sqlalchemy
 
 
-## Demo
+# Demo
 
 I have used Postman tool.
 
@@ -49,6 +45,11 @@ I have used Postman tool.
  ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Query.png)
 
 
+
+**References :** 
+ 1. https://docs.sqlalchemy.org/en/14/orm/query.html#sqlalchemy.orm.query.Query.with_entities.
+ 2. https://www.tutorialspoint.com/flask/flask_routing.htm
+ 3. https://stackoverflow.com/questions/3292752/sum-fields-in-sqlalchemy
 
 
 
