@@ -12,7 +12,7 @@ The sensor table collects different sensors id, countries and cities at one time
 **2- update -** This method is used for registering senor_id, humidity, temp(temperature), wind_speed(wind speed) and DateTime(current date-time of sensor's data)
 127.0.0.1:5000/update/<sensor_id>
 
-**3- query -** This method is used for filtering data from stored information. Filtering parameters are sensors (sensor_id: eg.  1,2,3,4 etc), data_range(1,2,3..etc)
+**3- query -** This method is used for filtering data from stored information. Filtering parameters are sensors (sensor_id: eg.  1,2,3,4 etc), metrics (humidity, temp , wind_speed),  data_range(1,2,3..etc)
 127.0.0.1:5000/query
 
 
