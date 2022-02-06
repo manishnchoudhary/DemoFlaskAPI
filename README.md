@@ -32,7 +32,11 @@ It is a python file for automated testing.
  3. https://stackoverflow.com/questions/3292752/sum-fields-in-sqlalchemy
 
 
-### Demo
+## Demo
+
+**Querying**
+
+I have used Postman tool. 
 
 ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Query.png)
 
