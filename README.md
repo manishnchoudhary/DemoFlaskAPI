@@ -45,11 +45,3 @@ I have used Postman tool.
  ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Query.png)
 
 
-
-**References :** 
- 1. https://docs.sqlalchemy.org/en/14/orm/query.html#sqlalchemy.orm.query.Query.with_entities.
- 2. https://www.tutorialspoint.com/flask/flask_routing.htm
- 3. https://stackoverflow.com/questions/3292752/sum-fields-in-sqlalchemy
-
-
-
