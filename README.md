@@ -23,7 +23,7 @@ It is a python file for automated testing.
 
 ## Entity Digram
 
-![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/ER_Digram.png)
+![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/ER_Digram.png)
 
 
 **References :** 
@@ -34,11 +34,19 @@ It is a python file for automated testing.
 
 ## Demo
 
+I have used Postman tool.
+
+**Register Sensor First**
+
+![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/register_sensor.png)
+
+**Update Sensor Data**
+
+![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Update_sensor_data.png)
+
 **Querying**
 
-I have used Postman tool. 
-
-![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Query.png)
+ ![App Screenshot](https://github.com/manishnchoudhary/DemoFlaskAPI/blob/main/Image/Query.png)
 
 
 
