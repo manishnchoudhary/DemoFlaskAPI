@@ -1,13 +1,12 @@
 # Weather Rest APP 
 
-app.py
+**app.py**
+
 The sensor table collects different sensors id, countries and cities at one time in the table. Sensors update their humidity, temperature, wind_speed and data time in the SensorData table.
 
-Test.py
+**tests.py**
 
 It is a python file for automated testing.
- 
-
 
 
 ## Entity Digram
